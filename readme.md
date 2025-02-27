@@ -45,6 +45,6 @@ Receiver: This class receives the question, checks if it is a valid mathematical
 Virtual Professor: This class processes the mathematical question, evaluates the expression, and returns the result. If there is an issue with processing (e.g., invalid syntax), an error message will be returned.
 
 ### Future Improvements
-Integration with LangChain: The next step is to integrate LangChain for using LangGraph, improving the communication between agents and enhancing the system's structure.
+Integration with LangGraph: The next step is to integrate to LangGraph, improving the communication between agents and enhancing the system's structure.
 ### Contributing
 Feel free to contribute to this project by opening issues and submitting pull requests. Any contribution is welcome!
